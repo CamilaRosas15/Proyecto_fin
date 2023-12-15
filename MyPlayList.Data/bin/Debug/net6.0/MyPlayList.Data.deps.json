@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MyPlayList.Data/1.0.0": {
+        "dependencies": {
+          "MyPlayList.Core": "1.0.0"
+        },
+        "runtime": {
+          "MyPlayList.Data.dll": {}
+        }
+      },
+      "MyPlayList.Core/1.0.0": {
+        "runtime": {
+          "MyPlayList.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyPlayList.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyPlayList.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

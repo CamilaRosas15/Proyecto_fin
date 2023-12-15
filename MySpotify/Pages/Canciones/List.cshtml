@@ -1,0 +1,136 @@
+﻿@page
+@model MySpotify.Pages.Canciones.ListModel
+@{
+    ViewData["Title"] = "Lista de Canciones";
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f8f8f8;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #1DB954;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 12px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #1DB954;
+            color: white;
+        }
+
+        tr:hover {
+            background-color: #f5f5f5;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            font-size: 16px;
+            text-align: center;
+            text-decoration: none;
+            background-color: #1DB954;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+            .btn:hover {
+                background-color: #147033;
+            }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>@ViewData["Title"]</h1>
+    </header>
+    
+    <form method="get">
+        <div class="form-group">
+            <div class="input-group">
+                <input type="search" class="form-control" asp-for="SearchTerm"/>
+                <span class="input-group-btn">
+                    <button class="btn btn-default">
+                        Search
+                    </button>
+                </span>
+            </div>
+        </div>
+    </form>
+
+    <div class="container">
+        <table>
+            <thead>
+                <tr>
+                    <th>Título</th>
+                    <th>Artista</th>
+                    <th>Duración</th>
+                    <th>Género</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var cancion in Model.Canciones)
+                {
+                    <tr>
+                        <td>@cancion.Title</td>
+                        <td>@cancion.ArtistName</td>
+                        <td>@cancion.Duration</td>
+                        <td>@cancion.genero</td>
+                        <td>
+                            <a class="btn"
+                               asp-page="./Detail"
+                               asp-route-cancionesId="@cancion.Id">
+                                Ver Detalle
+                            </a>
+                            <a class="btn"
+                               asp-page="./Edit"
+                               asp-route-cancionesId="@cancion.Id">
+                                Editar
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <a asp-page=".\Edit" class="btn btn-primary"> Add new </a>
+        <div>@Model.Message</div>
+        
+    </div>
+</body>
+</html>

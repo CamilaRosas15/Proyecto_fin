@@ -1,0 +1,108 @@
+C:\Users\camil\OneDrive\Escritorio\MySpotify\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\camil\OneDrive\Escritorio\MySpotify\bin\Debug\net6.0\appsettings.json
+C:\Users\camil\OneDrive\Escritorio\MySpotify\bin\Debug\net6.0\MySpotify.staticwebassets.runtime.json
+C:\Users\camil\OneDrive\Escritorio\MySpotify\bin\Debug\net6.0\MySpotify.exe
+C:\Users\camil\OneDrive\Escritorio\MySpotify\bin\Debug\net6.0\MySpotify.deps.json
+C:\Users\camil\OneDrive\Escritorio\MySpotify\bin\Debug\net6.0\MySpotify.runtimeconfig.json
+C:\Users\camil\OneDrive\Escritorio\MySpotify\bin\Debug\net6.0\MySpotify.dll
+C:\Users\camil\OneDrive\Escritorio\MySpotify\bin\Debug\net6.0\MySpotify.pdb
+C:\Users\camil\OneDrive\Escritorio\MySpotify\obj\Debug\net6.0\MySpotify.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camil\OneDrive\Escritorio\MySpotify\obj\Debug\net6.0\MySpotify.AssemblyInfoInputs.cache
+C:\Users\camil\OneDrive\Escritorio\MySpotify\obj\Debug\net6.0\MySpotify.AssemblyInfo.cs
+C:\Users\camil\OneDrive\Escritorio\MySpotify\obj\Debug\net6.0\MySpotify.csproj.CoreCompileInputs.cache
+C:\Users\camil\OneDrive\Escritorio\MySpotify\obj\Debug\net6.0\MySpotify.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\camil\OneDrive\Escritorio\MySpotify\obj\Debug\net6.0\MySpotify.RazorAssemblyInfo.cache
+C:\Users\camil\OneDrive\Escritorio\MySpotify\obj\Debug\net6.0\MySpotify.RazorAssemblyInfo.cs
+C:\Users\camil\OneDrive\Escritorio\MySpotify\obj\Debug\net6.0\staticwebassets\msbuild.MySpotify.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\camil\OneDrive\Escritorio\MySpotify\obj\Debug\net6.0\staticwebassets\msbuild.build.MySpotify.props
+C:\Users\camil\OneDrive\Escritorio\MySpotify\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MySpotify.props
+C:\Users\camil\OneDrive\Escritorio\MySpotify\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MySpotify.props
+C:\Users\camil\OneDrive\Escritorio\MySpotify\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\camil\OneDrive\Escritorio\MySpotify\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\camil\OneDrive\Escritorio\MySpotify\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\camil\OneDrive\Escritorio\MySpotify\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\camil\OneDrive\Escritorio\MySpotify\obj\Debug\net6.0\scopedcss\bundle\MySpotify.styles.css
+C:\Users\camil\OneDrive\Escritorio\MySpotify\obj\Debug\net6.0\scopedcss\projectbundle\MySpotify.bundle.scp.css
+C:\Users\camil\OneDrive\Escritorio\MySpotify\obj\Debug\net6.0\MySpotify.dll
+C:\Users\camil\OneDrive\Escritorio\MySpotify\obj\Debug\net6.0\refint\MySpotify.dll
+C:\Users\camil\OneDrive\Escritorio\MySpotify\obj\Debug\net6.0\MySpotify.pdb
+C:\Users\camil\OneDrive\Escritorio\MySpotify\obj\Debug\net6.0\MySpotify.genruntimeconfig.cache
+C:\Users\camil\OneDrive\Escritorio\MySpotify\obj\Debug\net6.0\ref\MySpotify.dll
+C:\Users\camil\OneDrive\Escritorio\MySpotify\bin\Debug\net6.0\MyPlayList.Core.dll
+C:\Users\camil\OneDrive\Escritorio\MySpotify\bin\Debug\net6.0\MyPlayList.Data.dll
+C:\Users\camil\OneDrive\Escritorio\MySpotify\bin\Debug\net6.0\MyPlayList.Data.pdb
+C:\Users\camil\OneDrive\Escritorio\MySpotify\bin\Debug\net6.0\MyPlayList.Core.pdb
+C:\Users\camil\OneDrive\Escritorio\MySpotify\obj\Debug\net6.0\MySpotify.csproj.AssemblyReference.cache
+C:\Users\camil\OneDrive\Escritorio\MySpotify\obj\Debug\net6.0\MySpotify.csproj.CopyComplete
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MySpotify\bin\Debug\net6.0\appsettings.Development.json
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MySpotify\bin\Debug\net6.0\appsettings.json
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MySpotify\bin\Debug\net6.0\MySpotify.staticwebassets.runtime.json
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MySpotify\bin\Debug\net6.0\MySpotify.exe
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MySpotify\bin\Debug\net6.0\MySpotify.deps.json
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MySpotify\bin\Debug\net6.0\MySpotify.runtimeconfig.json
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MySpotify\bin\Debug\net6.0\MySpotify.dll
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MySpotify\bin\Debug\net6.0\MySpotify.pdb
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MySpotify\bin\Debug\net6.0\MyPlayList.Core.dll
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MySpotify\bin\Debug\net6.0\MyPlayList.Data.dll
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MySpotify\bin\Debug\net6.0\MyPlayList.Data.pdb
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MySpotify\bin\Debug\net6.0\MyPlayList.Core.pdb
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MySpotify\obj\Debug\net6.0\MySpotify.csproj.AssemblyReference.cache
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MySpotify\obj\Debug\net6.0\MySpotify.GeneratedMSBuildEditorConfig.editorconfig
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MySpotify\obj\Debug\net6.0\MySpotify.AssemblyInfoInputs.cache
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MySpotify\obj\Debug\net6.0\MySpotify.AssemblyInfo.cs
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MySpotify\obj\Debug\net6.0\MySpotify.csproj.CoreCompileInputs.cache
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MySpotify\obj\Debug\net6.0\MySpotify.MvcApplicationPartsAssemblyInfo.cache
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MySpotify\obj\Debug\net6.0\MySpotify.RazorAssemblyInfo.cache
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MySpotify\obj\Debug\net6.0\MySpotify.RazorAssemblyInfo.cs
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MySpotify\obj\Debug\net6.0\staticwebassets\msbuild.MySpotify.Microsoft.AspNetCore.StaticWebAssets.props
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MySpotify\obj\Debug\net6.0\staticwebassets\msbuild.build.MySpotify.props
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MySpotify\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MySpotify.props
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MySpotify\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MySpotify.props
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MySpotify\obj\Debug\net6.0\staticwebassets.pack.json
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MySpotify\obj\Debug\net6.0\staticwebassets.build.json
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MySpotify\obj\Debug\net6.0\staticwebassets.development.json
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MySpotify\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MySpotify\obj\Debug\net6.0\scopedcss\bundle\MySpotify.styles.css
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MySpotify\obj\Debug\net6.0\scopedcss\projectbundle\MySpotify.bundle.scp.css
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MySpotify\obj\Debug\net6.0\MySpotify.csproj.CopyComplete
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MySpotify\obj\Debug\net6.0\MySpotify.dll
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MySpotify\obj\Debug\net6.0\refint\MySpotify.dll
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MySpotify\obj\Debug\net6.0\MySpotify.pdb
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MySpotify\obj\Debug\net6.0\MySpotify.genruntimeconfig.cache
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MySpotify\obj\Debug\net6.0\ref\MySpotify.dll
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MySpotify\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MySpotify\bin\Debug\net6.0\appsettings.json
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MySpotify\bin\Debug\net6.0\MySpotify.staticwebassets.runtime.json
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MySpotify\bin\Debug\net6.0\MySpotify.exe
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MySpotify\bin\Debug\net6.0\MySpotify.deps.json
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MySpotify\bin\Debug\net6.0\MySpotify.runtimeconfig.json
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MySpotify\bin\Debug\net6.0\MySpotify.dll
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MySpotify\bin\Debug\net6.0\MySpotify.pdb
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MySpotify\bin\Debug\net6.0\MyPlayList.Core.dll
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MySpotify\bin\Debug\net6.0\MyPlayList.Data.dll
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MySpotify\bin\Debug\net6.0\MyPlayList.Data.pdb
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MySpotify\bin\Debug\net6.0\MyPlayList.Core.pdb
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MySpotify\obj\Debug\net6.0\MySpotify.csproj.AssemblyReference.cache
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MySpotify\obj\Debug\net6.0\MySpotify.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MySpotify\obj\Debug\net6.0\MySpotify.AssemblyInfoInputs.cache
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MySpotify\obj\Debug\net6.0\MySpotify.AssemblyInfo.cs
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MySpotify\obj\Debug\net6.0\MySpotify.csproj.CoreCompileInputs.cache
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MySpotify\obj\Debug\net6.0\MySpotify.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MySpotify\obj\Debug\net6.0\MySpotify.RazorAssemblyInfo.cache
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MySpotify\obj\Debug\net6.0\MySpotify.RazorAssemblyInfo.cs
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MySpotify\obj\Debug\net6.0\staticwebassets\msbuild.MySpotify.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MySpotify\obj\Debug\net6.0\staticwebassets\msbuild.build.MySpotify.props
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MySpotify\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MySpotify.props
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MySpotify\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MySpotify.props
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MySpotify\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MySpotify\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MySpotify\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MySpotify\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MySpotify\obj\Debug\net6.0\scopedcss\bundle\MySpotify.styles.css
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MySpotify\obj\Debug\net6.0\scopedcss\projectbundle\MySpotify.bundle.scp.css
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MySpotify\obj\Debug\net6.0\MySpotify.csproj.CopyComplete
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MySpotify\obj\Debug\net6.0\MySpotify.dll
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MySpotify\obj\Debug\net6.0\refint\MySpotify.dll
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MySpotify\obj\Debug\net6.0\MySpotify.pdb
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MySpotify\obj\Debug\net6.0\MySpotify.genruntimeconfig.cache
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MySpotify\obj\Debug\net6.0\ref\MySpotify.dll

@@ -1,0 +1,106 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spotify Paradise</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #121212;
+            color: #fff;
+            margin: 0;
+            padding: 0;
+        }
+
+        .header {
+            background-color: #1DB954;
+            color: white;
+            text-align: center;
+            padding: 40px 20px;
+        }
+
+        h1 {
+            font-size: 3.5em;
+            margin-bottom: 20px;
+            letter-spacing: 2px;
+        }
+
+        p {
+            font-size: 1.4em;
+            line-height: 1.6;
+            margin-bottom: 20px;
+        }
+
+        a {
+            color: #1DB954;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+            a:hover {
+                text-decoration: underline;
+            }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 40px;
+            background-color: #666666;
+            border-radius: 12px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+        }
+
+        .image-section {
+            text-align: center;
+            margin-top: 30px;
+        }
+
+        .image-link {
+            display: block; /* Cambiado a bloque para que las imágenes estén una encima de la otra */
+            margin-bottom: 20px;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 12px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Embark on a Musical Journey with Spotify Paradise</h1>
+        <p>Discover the world of music, create playlists, and let the beats take you to new heights.</p>
+    </div>
+
+    <div class="container">
+        <div class="image-section">
+            <!-- Enlace a la imagen de Spotify 1 -->
+            <div class="image-link">
+                <a href="#link_to_your_image_1">
+                    <img src="https://cuadernodemarketing.com/wp-content/uploads/2023/05/spotify.jpeg" alt="Spotify Image 1">
+                </a>
+            </div>
+
+            <!-- Enlace a la imagen de Spotify 2 -->
+            <div class="image-link">
+                <a href="#link_to_your_image_2">
+                    <img src="https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/2400x1600/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951390/STK088_VRG_Illo_N_Barclay_5_spotify.jpg" alt="Spotify Image 2">
+                </a>
+            </div>
+        </div>
+
+        <p>Spotify Paradise is not just a music platform; it's an escape into the rhythm of life. Dive into a sea of melodies, explore genres, and make each moment memorable with your favorite tunes.</p>
+
+        <p>Build your own playlists, follow your musical idols, and unlock a world of audio wonders. Ready to join the groove? <a href="https://www.spotify.com/" target="_blank">Sign up for Spotify Paradise now</a>.</p>
+    </div>
+</body>
+</html>

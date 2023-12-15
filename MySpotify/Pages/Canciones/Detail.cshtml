@@ -1,0 +1,86 @@
+﻿@page "cancionesId:int"
+@model MySpotify.Pages.Canciones.DetailModel
+@{
+    ViewData["Title"] = "Detalles de la Canción";
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f8f8f8;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #1DB954;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+        }
+
+        h2 {
+            color: #1DB954;
+        }
+
+        div {
+            margin-bottom: 10px;
+        }
+
+        .alert {
+            padding: 10px;
+            margin-top: 20px;
+            border-radius: 5px;
+        }
+
+        .alert-info {
+            background-color: #d9edf7;
+            border-color: #bce8f1;
+            color: #31708f;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>@ViewData["Title"]</h1>
+    </header>
+
+    <div class="container">
+        <h2>@Model.cancion.Title</h2>
+
+        <div>
+            <strong>Id:</strong> @Model.cancion.Id
+        </div>
+
+        <div>
+            <strong>Artista:</strong> @Model.cancion.ArtistName
+        </div>
+
+        <div>
+            <strong>Duración:</strong> @Model.cancion.Duration
+        </div>
+
+        <div>
+            <strong>Género:</strong> @Model.cancion.genero
+        </div>
+        <a asp-page="./list" class="btn btn-default"> Canciones </a>
+        
+    </div>
+</body>
+</html>

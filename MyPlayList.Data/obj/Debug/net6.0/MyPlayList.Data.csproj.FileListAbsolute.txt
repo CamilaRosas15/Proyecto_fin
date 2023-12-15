@@ -1,0 +1,45 @@
+C:\Users\camil\OneDrive\Escritorio\MyPlayList.Data\bin\Debug\net6.0\MyPlayList.Data.deps.json
+C:\Users\camil\OneDrive\Escritorio\MyPlayList.Data\bin\Debug\net6.0\MyPlayList.Data.dll
+C:\Users\camil\OneDrive\Escritorio\MyPlayList.Data\bin\Debug\net6.0\MyPlayList.Data.pdb
+C:\Users\camil\OneDrive\Escritorio\MyPlayList.Data\bin\Debug\net6.0\MyPlayList.Core.dll
+C:\Users\camil\OneDrive\Escritorio\MyPlayList.Data\bin\Debug\net6.0\MyPlayList.Core.pdb
+C:\Users\camil\OneDrive\Escritorio\MyPlayList.Data\obj\Debug\net6.0\MyPlayList.Data.csproj.AssemblyReference.cache
+C:\Users\camil\OneDrive\Escritorio\MyPlayList.Data\obj\Debug\net6.0\MyPlayList.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camil\OneDrive\Escritorio\MyPlayList.Data\obj\Debug\net6.0\MyPlayList.Data.AssemblyInfoInputs.cache
+C:\Users\camil\OneDrive\Escritorio\MyPlayList.Data\obj\Debug\net6.0\MyPlayList.Data.AssemblyInfo.cs
+C:\Users\camil\OneDrive\Escritorio\MyPlayList.Data\obj\Debug\net6.0\MyPlayList.Data.csproj.CoreCompileInputs.cache
+C:\Users\camil\OneDrive\Escritorio\MyPlayList.Data\obj\Debug\net6.0\MyPlayList.Data.csproj.CopyComplete
+C:\Users\camil\OneDrive\Escritorio\MyPlayList.Data\obj\Debug\net6.0\MyPlayList.Data.dll
+C:\Users\camil\OneDrive\Escritorio\MyPlayList.Data\obj\Debug\net6.0\refint\MyPlayList.Data.dll
+C:\Users\camil\OneDrive\Escritorio\MyPlayList.Data\obj\Debug\net6.0\MyPlayList.Data.pdb
+C:\Users\camil\OneDrive\Escritorio\MyPlayList.Data\obj\Debug\net6.0\ref\MyPlayList.Data.dll
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MyPlayList.Data\bin\Debug\net6.0\MyPlayList.Data.deps.json
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MyPlayList.Data\bin\Debug\net6.0\MyPlayList.Data.dll
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MyPlayList.Data\bin\Debug\net6.0\MyPlayList.Data.pdb
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MyPlayList.Data\bin\Debug\net6.0\MyPlayList.Core.dll
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MyPlayList.Data\bin\Debug\net6.0\MyPlayList.Core.pdb
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MyPlayList.Data\obj\Debug\net6.0\MyPlayList.Data.csproj.AssemblyReference.cache
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MyPlayList.Data\obj\Debug\net6.0\MyPlayList.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MyPlayList.Data\obj\Debug\net6.0\MyPlayList.Data.AssemblyInfoInputs.cache
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MyPlayList.Data\obj\Debug\net6.0\MyPlayList.Data.AssemblyInfo.cs
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MyPlayList.Data\obj\Debug\net6.0\MyPlayList.Data.csproj.CoreCompileInputs.cache
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MyPlayList.Data\obj\Debug\net6.0\MyPlayList.Data.csproj.CopyComplete
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MyPlayList.Data\obj\Debug\net6.0\MyPlayList.Data.dll
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MyPlayList.Data\obj\Debug\net6.0\refint\MyPlayList.Data.dll
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MyPlayList.Data\obj\Debug\net6.0\MyPlayList.Data.pdb
+C:\catolica agus\2\SISTEMAS DE INFORMACION\Proyecto_final-main\MyPlayList.Data\obj\Debug\net6.0\ref\MyPlayList.Data.dll
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MyPlayList.Data\bin\Debug\net6.0\MyPlayList.Data.deps.json
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MyPlayList.Data\bin\Debug\net6.0\MyPlayList.Data.dll
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MyPlayList.Data\bin\Debug\net6.0\MyPlayList.Data.pdb
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MyPlayList.Data\bin\Debug\net6.0\MyPlayList.Core.dll
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MyPlayList.Data\bin\Debug\net6.0\MyPlayList.Core.pdb
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MyPlayList.Data\obj\Debug\net6.0\MyPlayList.Data.csproj.AssemblyReference.cache
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MyPlayList.Data\obj\Debug\net6.0\MyPlayList.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MyPlayList.Data\obj\Debug\net6.0\MyPlayList.Data.AssemblyInfoInputs.cache
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MyPlayList.Data\obj\Debug\net6.0\MyPlayList.Data.AssemblyInfo.cs
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MyPlayList.Data\obj\Debug\net6.0\MyPlayList.Data.csproj.CoreCompileInputs.cache
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MyPlayList.Data\obj\Debug\net6.0\MyPlayList.Data.csproj.CopyComplete
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MyPlayList.Data\obj\Debug\net6.0\MyPlayList.Data.dll
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MyPlayList.Data\obj\Debug\net6.0\refint\MyPlayList.Data.dll
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MyPlayList.Data\obj\Debug\net6.0\MyPlayList.Data.pdb
+C:\Users\camil\OneDrive\Escritorio\Proyecto_final-main\Proyecto_final-main\MyPlayList.Data\obj\Debug\net6.0\ref\MyPlayList.Data.dll
