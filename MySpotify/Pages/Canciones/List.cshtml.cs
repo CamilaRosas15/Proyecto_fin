@@ -40,5 +40,12 @@ namespace MySpotify.Pages.Canciones
             
             Canciones = cancionesData.GetCancionsByName(SearchTerm);
         }
+
+        public IActionResult OnPost(int id) //ojo
+        {
+            cancionesData.Delete(id);
+            cancionesData.Commit();
+            return RedirectToPage(pageName: "./List");
+        }
     }
 }

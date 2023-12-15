@@ -39,8 +39,8 @@ namespace MyPlayList.Data
 
         public Cancion Update(Cancion updateCancion)
         {
-            //var cancion = canciones.Find(s => s.Id == updateCancion.Id);
-            Cancion cancion = canciones.SingleOrDefault(s => s.Id == updateCancion.Id);
+            var cancion = canciones.Find(s => s.Id == updateCancion.Id);
+            //Cancion cancion = canciones.SingleOrDefault(s => s.Id == updateCancion.Id);
             //Console.WriteLine("original");
             //Console.WriteLine(cancion.genero);
             
@@ -53,7 +53,6 @@ namespace MyPlayList.Data
                 cancion.ArtistName = updateCancion.ArtistName;
                 cancion.Duration = updateCancion.Duration;
                 cancion.genero = updateCancion.genero;
-                
             }
             else//
             {
@@ -63,12 +62,25 @@ namespace MyPlayList.Data
             }
             return cancion;
         }
+        /*Princial
         public Cancion Add(Cancion newCancion)
         {
             canciones.Add(newCancion);
             newCancion.Id = canciones.Max(s => s.Id) + 1;
             return newCancion;
+        }*/
+
+        public Cancion Add(Cancion newCancion)
+        {
+            // Asignar un nuevo ID de manera segura
+            newCancion.Id = canciones.Count > 0 ? canciones.Max(s => s.Id) + 1 : 1;
+
+            canciones.Add(newCancion);
+
+            // Devolver la canción recién agregada
+            return newCancion;
         }
+
 
         public IEnumerable<Cancion> GetCancionsByName(string name)
         {
@@ -77,11 +89,29 @@ namespace MyPlayList.Data
                    orderby s.Title
                    select s;
         }
+        /*principal
+        public void Delete(int id)
+        {
+            canciones.RemoveAll(match:x => x.Id == id);
+        }*/
+        public void Delete(int id)
+        {
+            var cancion = canciones.SingleOrDefault(s => s.Id == id);
 
-
+            if (cancion != null)
+            {
+                canciones.Remove(cancion);
+            }
+            else
+            {
+                // Manejar el caso cuando no se encuentra la canción
+                throw new InvalidOperationException($"No se encontró ninguna canción con Id {id}");
+            }
+        }
         public int Commit()
         {
             return canciones.Count;  // Actualizado para devolver la cantidad total de canciones
+            //return 0;
         }
     }
 }

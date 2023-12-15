@@ -25,6 +25,8 @@ namespace MySpotify.Pages.Canciones
 
         public IActionResult OnGet(int? cancionesId)
         {
+            Console.WriteLine("hola");
+            Console.WriteLine(cancionesId);
             Generos = htmlHelper.GetEnumSelectList<TipoDeGenero>();
 
             if (cancionesId.HasValue)
@@ -39,6 +41,7 @@ namespace MySpotify.Pages.Canciones
             if (Cancion == null)
             {
                 return RedirectToPage("./NotFound");
+                //Cancion = new Cancion();
             }
 
             return Page();
@@ -56,17 +59,13 @@ namespace MySpotify.Pages.Canciones
 
             if (Cancion.Id > 0)
             {
-                Cancion = cancionesData.Update(Cancion);
+               cancionesData.Update(Cancion);
             }
             else
             {
                 cancionesData.Add(Cancion);
             }
-
-
             //int updatedCount = cancionesData.Commit();
-
-
             //if (updatedCount > 0)
             //{
             //    TempData["Message"] = $"Canción Guardada! ({updatedCount} actualizada(s))";
@@ -81,7 +80,7 @@ namespace MySpotify.Pages.Canciones
 
 
             // Redirigir a la página de detalles con el ID de la canción editada
-            return RedirectToPage("./Detail", new { cancionesId = Cancion.Id });
+            return RedirectToPage(pageName:"./Detail", new { cancionesId = Cancion.Id });
         }
 
     }

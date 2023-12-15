@@ -94,6 +94,7 @@
     </form>
 
     <div class="container">
+    <form method="post">
         <table>
             <thead>
                 <tr>
@@ -118,11 +119,16 @@
                                asp-route-cancionesId="@cancion.Id">
                                 Ver Detalle
                             </a>
+                        </td>
+                        <td>
                             <a class="btn"
                                asp-page="./Edit"
                                asp-route-cancionesId="@cancion.Id">
                                 Editar
                             </a>
+                        </td>
+                        <td>
+                            <button type="submit" asp-page="delete" asp-route-id ="@cancion.Id"> Delete</button>
                         </td>
                     </tr>
                 }
@@ -130,7 +136,8 @@
         </table>
         <a asp-page=".\Edit" class="btn btn-primary"> Add new </a>
         <div>@Model.Message</div>
-        
+        </form>
     </div>
+
 </body>
 </html>

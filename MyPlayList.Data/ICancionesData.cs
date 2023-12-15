@@ -15,6 +15,7 @@ namespace MyPlayList.Data
 
         IEnumerable<Cancion> GetCancionsByName(string name);
 
+        void Delete(int id);
         int Commit();  // Cambiado para devolver el número de canciones actualizadas
     }
 }
